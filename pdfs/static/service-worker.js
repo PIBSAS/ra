@@ -1,5 +1,5 @@
 const CACHE_NAME = "revistas-cache-v1";
-const urlsToCache = ['logo.webp', 'favicon.ico', 'site.webmanifest', '../IntegralDefinida.pdf', 'IntegralDefinida.webp', '../Metodos%20Integracion.pdf', 'Metodos%20Integracion.webp'];
+const urlsToCache = ['logo.webp', 'favicon.ico', 'site.webmanifest', '../Full%20Circle%20222.pdf', 'Full%20Circle%20222.webp', '../IntegralDefinida.pdf', 'IntegralDefinida.webp', '../Metodos%20Integracion.pdf', 'Metodos%20Integracion.webp'];
 
 self.addEventListener("install", event => {
   event.waitUntil(
